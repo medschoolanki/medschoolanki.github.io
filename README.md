@@ -1,1 +1,1 @@
-# medschoolanki
+# medschoolanki.github.io
